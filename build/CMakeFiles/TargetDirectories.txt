@@ -1,0 +1,3 @@
+/home/philipp/Dokumente/sam/build/CMakeFiles/edit_cache.dir
+/home/philipp/Dokumente/sam/build/CMakeFiles/rebuild_cache.dir
+/home/philipp/Dokumente/sam/build/CMakeFiles/Plot.dir

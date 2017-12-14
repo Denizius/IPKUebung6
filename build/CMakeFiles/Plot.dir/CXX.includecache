@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/philipp/Dokumente/sam/canvas.hh
+iostream
+-
+vector
+-
+point.hh
+/home/philipp/Dokumente/sam/point.hh
+pgm.hh
+/home/philipp/Dokumente/sam/pgm.hh
+
+/home/philipp/Dokumente/sam/pgm.cc
+fstream
+-
+cmath
+-
+pgm.hh
+/home/philipp/Dokumente/sam/pgm.hh
+
+/home/philipp/Dokumente/sam/pgm.hh
+vector
+-
+string
+-
+
+/home/philipp/Dokumente/sam/plot.cc
+iostream
+-
+vector
+-
+cmath
+-
+canvas.hh
+/home/philipp/Dokumente/sam/canvas.hh
+
+/home/philipp/Dokumente/sam/point.hh
+iostream
+-
+
